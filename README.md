@@ -22,10 +22,10 @@ Python                   4 mins              ░░░░░░░░░░░�
 ``` -->
 
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt=" " src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Karthik-Sunil-K&bg_color=AARRGGBB&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt=" " src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sinad_shibin&bg_color=AARRGGBB&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
 <!-- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinad-shibin&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Sunil-K&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinad-shibin&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinad_shibin&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;"> -->
 
 
@@ -39,7 +39,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+<!-- ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) -->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -52,7 +52,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Sunil-K&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Sunil-K&layout=compact&theme=yeblu&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinad_shibin&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinad_shibin&layout=compact&theme=yeblu&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
