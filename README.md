@@ -22,10 +22,10 @@ Python                   4 mins              ░░░░░░░░░░░�
 ``` -->
 
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt=" " src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sinad_shibin&bg_color=AARRGGBB&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt=" " src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=sinad-shibin&bg_color=AARRGGBB&color=ADBAC7&line=8D8D8D&point=ADBAC7&hide_border=true&line_width=3" /></a>
 <!-- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinad-shibin&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinad_shibin&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinad-shibin&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinad-shibin&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;"> -->
 
 
@@ -52,7 +52,7 @@ Python                   4 mins              ░░░░░░░░░░░�
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinad_shibin&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinad_shibin&layout=compact&theme=yeblu&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinad-shibin&show_icons=true&include_all_commits=true&theme=yeblu&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinad-shibin&layout=compact&theme=yeblu&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
