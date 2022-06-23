@@ -42,7 +42,30 @@ Python                   4 mins              ░░░░░░░░░░░�
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinad-shibin&show_icons=true&title_color=ADBAC7&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=20)                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinad-shibin&layout=compact&title_color=ADBAC7&&bg_color=00000000&hide=bg-color&text_color=ADBAC7&icon_color=ADBAC7&hide_border=true&hide_title=true&card_width=200)](https://github.com/anuraghazra/github-readme-stats&) 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;"> -->
 
-
+### 👉Graphic Designing
+<p align="left">
+  &emsp;  
+   <!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
+    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
+  </a> 
+    &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
+  </a>
+   &emsp; -->
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+&emsp; 
+ </p>
 
 
 
