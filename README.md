@@ -52,11 +52,11 @@ Python                   4 mins              ░░░░░░░░░░░�
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
     <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white"/> 
   </a> 
-    &emsp;
+    &emsp; -->
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white"/>
   </a>
-   &emsp; -->
+   &emsp; 
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flate&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   </a>
